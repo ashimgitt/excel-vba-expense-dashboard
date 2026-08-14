@@ -146,8 +146,8 @@ excel-vba-expense-dashboard/
 ├── VBA/
 │   └── BuildExpensesDashboard.bas
 │
-├── Screenshots/
-│   └── expenses-dashboard.png
+├── expenses-dashboard.png
+│   
 │
 └── Sample_Data/
     └── expenses_sample.xlsx
