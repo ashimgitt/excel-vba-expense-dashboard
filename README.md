@@ -149,8 +149,7 @@ excel-vba-expense-dashboard/
 ├── expenses-dashboard.png
 │   
 │
-└── Sample_Data/
-    └── expenses_sample.xlsx
+└── Sample_Data.xlsx
 ```
 
 ---
